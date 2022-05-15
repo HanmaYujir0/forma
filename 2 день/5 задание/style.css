@@ -1,0 +1,49 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+.main {
+    width: 1140px;
+    background-color: white;
+    display: inline-flex;
+    height: 150px;
+    margin-bottom: 70px;
+    justify-content: space-between;
+}
+.son {
+    width: 50%;
+    background-color: aqua;
+}
+.daughter {
+    background-color: palevioletred;
+    width: 50%;
+}
+.one, .two, .three, .four, .five {
+    width: 15%;
+}
+.one {
+    background-color: aqua;
+}
+.two {
+    background-color: blue;
+}
+.three {
+    background-color: brown;
+}
+.four{
+    background-color: blueviolet;
+}
+.five {
+    background-color: burlywood;
+}
+.first {
+    width: 17%;
+    background-color: blueviolet;
+}
+.second {
+    width: 34%;
+    background-color: brown;
+}
+.third {
+    width: 17%;
+    background-color: aqua;
+}
